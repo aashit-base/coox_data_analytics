@@ -9,7 +9,7 @@ This repository contains the code, dataset, and interactive visualizations requi
 ```text
 COOX_GEO_BLOCKING/
 │
-├── graphs_maps/                            # Exported visualizations and boundaries
+├── graphs_maps/                            
 │   ├── address_type_distribution.png
 │   ├── city_wise_bookings.png
 │   ├── cluster_map.html
@@ -20,11 +20,11 @@ COOX_GEO_BLOCKING/
 │   └── top_problem_areas.png
 │
 ├── data_analysis.ipynb                     # Main Jupyter Notebook with all logic
-├── Dataset_Coox.csv                        # The raw refunded bookings dataset
+├── Dataset_Coox.csv                        # The raw dataset
 ├── final_blocked_pincodes.csv              # Final deduplicated delivery blocklist
-├── pincode_blocklist.csv                   # Raw extraction before deduplication
+├── pincode_blocklist.csv                   # Raw extraction
 ├── problem_statement.pdf                   # Original project brief
-├── Project_Report.pdf                      # Final formal report detailing findings
+├── Project_Report.pdf                      # Final report 
 ├── requirements.txt
 └── README.md
 ```
