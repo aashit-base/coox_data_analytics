@@ -7,7 +7,7 @@ This repository contains the code, dataset, and interactive visualizations requi
 ## Repository Structure
 
 ```text
-COOX_DATA_ANALYTICS/
+Coox_data_analytics/
 │
 ├── graphs_maps/                            
 │   ├── address_type_distribution.png
