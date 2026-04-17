@@ -7,7 +7,7 @@ This repository contains the code, dataset, and interactive visualizations requi
 ## Repository Structure
 
 ```text
-COOX_GEO_BLOCKING/
+COOX_DATA_ANALYTICS/
 │
 ├── graphs_maps/                            
 │   ├── address_type_distribution.png
